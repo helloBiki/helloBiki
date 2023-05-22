@@ -2,7 +2,7 @@
 
 <!--
 **helloBiki/helloBiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloBiki&label=Profile%20views&color=0e75b6&style=flat" alt="helloBiki" /> </p>
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8FfxlTGytNYdMEGk750KT_H5yeF_ZvvvmQ&usqp=CAU" width="500px" height="300px">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="300px">
 </div>
 <div align="center">
 
