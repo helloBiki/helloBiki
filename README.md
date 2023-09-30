@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Biki Kumar Rai</h1>
 <h3 align="center">MCA Cloud Computing and DevOps</h3>
 <h3 align="center">Interested in Frontend Development and Business Analytics</h3>
-<h3 align="center"><a href="https://hellobiki.github.io/BikiKumarRai_22MCC20118/">visit my portfolio</a></h3>
+<h3 align="center"><a href="https://hellobiki.github.io/BikiKumarRai_22MCC20118/">click me to visit my personal portfolio</a></h3>
 
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
