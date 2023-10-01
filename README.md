@@ -1,4 +1,5 @@
-### Hi there Welcome to my page 👋
+### Hi there! 
+<h4 align="left">Biki Kumar Welcome's You 👋</h4>
 
 <!--
 **helloBiki/helloBiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +19,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloBiki&label=Profile%20views&color=0e75b6&style=flat" alt="helloBiki" /> </p>
 
 <h1 align="center">Hi 👋, I'm Biki Kumar Rai</h1>
-<h3 align="center">MCA Cloud Computing and DevOps</h3>
-<h3 align="center">Interested in Frontend Development and Business Analytics</h3>
-<h2 align="center"><a href="https://hellobiki.github.io/BikiKumarRai_22MCC20118/"><i>click me to visit my personal portfolio</i></a></h2>
+<h5 align="center">MCA Cloud Computing and DevOps</h5>
+<h5 align="center">Interested in Frontend Development and Business Analytics</h5>
+<h2 align="center"><a href="https://hellobiki.github.io/BikiKumarRai_22MCC20118/"><i>click here to visit my personal portfolio Website</i></a></h2>
 
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
