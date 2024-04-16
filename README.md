@@ -1,5 +1,5 @@
 ### Hi there! 
-How are you  everybody
+How are you everybody
 <h4 align="left">Biki Kumar Welcome's You 👋</h4>
 
 <!--
